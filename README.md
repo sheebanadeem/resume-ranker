@@ -46,26 +46,42 @@ Interactive web-based interface
 └── sample_resumes/          # Example resumes  
 
 ## Installation
-1. Clone the repository
+1. Clone the repository<dive>
+```bash
 git clone https://github.com/<your-username>/resume-ranker.git
 cd resume-ranker
+```
+</div>
 
-2. Create a virtual environment
+2. Create a virtual environment<div>
+```bash
 python -m venv .venv
+```
+</div>
+4. Activate the environment
 
-3. Activate the environment
+Windows PowerShell:<div>
+```bash
 
-Windows PowerShell:
 
 .\.venv\Scripts\Activate.ps1
-
+```
+</div>
 4. Install dependencies
+<div>
+  
+```bash
 pip install -r requirements.txt
-
+```
+</div>
 Running the Application
+<div>
+  
+```bash
 streamlit run app.py
 
-
+```
+</div>
 The app will be available at:
 
 http://localhost:8501
