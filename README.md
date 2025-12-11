@@ -1,5 +1,6 @@
 # Intelligent Resume Ranker
 <p> A machine learning powered resume evaluation system that ranks resumes based on semantic similarity to a job description. The system uses transformer embeddings, keyword extraction, and similarity scoring to produce accurate rankings and detailed skill-gap analysis. </p>
+
 ## Overview
 
 The Intelligent Resume Ranker allows users to:
@@ -95,11 +96,15 @@ Resumes are ranked by similarity score and presented with detailed metrics.
 Add your screenshot paths below:
 
 <p align="center">
-  <img src="images/screenshot1.png" width="650">
+  <img src="images\Screenshot 2025-12-11 100008.png" width="650">
 </p>
 
 <p align="center">
-  <img src="images/screenshot2.png" width="650">
+  <img src="images\Screenshot 2025-12-11 100025.png" width="650">
+</p>
+
+<p align="center">
+  <img src="images\Screenshot 2025-12-11 100044.png" width="650">
 </p>
 
 ## CSV Output Format
