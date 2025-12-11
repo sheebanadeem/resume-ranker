@@ -112,7 +112,7 @@ Resumes are ranked by similarity score and presented with detailed metrics.
 Add your screenshot paths below:
 
 <p align="center">
-  <img src="images\Screenshot 2025-12-11 100008.png" width="650">
+  <img src="images\Screenshot 2025-12-11 100008.png" width="200">
 </p>
 
 <p align="center">
