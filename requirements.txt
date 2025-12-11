@@ -1,0 +1,8 @@
+streamlit>=1.20
+sentence-transformers>=2.2.2
+scikit-learn>=1.2
+PyPDF2>=3.0
+python-docx>=0.8.11
+pandas>=2.0
+faiss-cpu; platform_system == "Linux" or platform_system == "Darwin"
+faiss-cpu; platform_system == "Windows"
